@@ -10,4 +10,4 @@ jobs:
         url: "https://jenkins.sdpmlab.org/"
         user: "huaye"
         token: ${{secrets.TOKEN}}
-        job: "tcse2023"
+        job: "tcse2023-HuaYeWang"
